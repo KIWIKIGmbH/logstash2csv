@@ -1,0 +1,7 @@
+{
+    "fields": [
+	"@timestamp",
+	"_id",
+	"_index"
+    ]
+}

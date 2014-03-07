@@ -1,0 +1,11 @@
+{
+    "connection": {
+	"host": "test.example.org",
+	"port": 443,
+	"basic_auth": {
+	    "user": "user",
+	    "password": "password"
+	},
+	"use_ssl": true
+    }
+}
